@@ -1,14 +1,6 @@
 # OOPSBannerApp
 
-This is a simple Java program that prints "OOPS".
+OOPS Banner App
 
-## Output
-OOPS
-
-## How to Run
-
-Compile:
-javac OOPSBannerApp.java
-
-Run:
-java OOPSBannerApp
+UC1 – Basic OOPS print
+UC2 – OOPS Banner using ASCII art
