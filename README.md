@@ -1,14 +1,20 @@
 # OOPSBannerApp
 
-This is a simple Java program that prints "OOPS".
+# OOPS Banner App - UC4
 
-## Output
-OOPS
+## UC4: Render OOPS as Banner using String Array and Loop
 
-## How to Run
+### Overview
+This use case improves UC3 by eliminating multiple print statements.  
+Instead of printing each line separately, all banner lines are stored in a *String array* and printed using a *loop*.
 
-Compile:
-javac OOPSBannerApp.java
+This improves:
+•⁠  ⁠Code modularity
+•⁠  ⁠Reusability
+•⁠  ⁠Maintainability
+•⁠  ⁠Readability
 
-Run:
-java OOPSBannerApp
+---
+
+## Drawback of UC3
+In UC3, each banner line required a separate ⁠ System.out.println() ⁠
